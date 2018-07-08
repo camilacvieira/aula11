@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1531089946 source:c:\users\alorya\documents\aulas lab\aula11\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1531089010 c:\users\alorya\documents\aulas lab\aula11\arvbinbusca.h
+	"NoArv.h"
+
+1529888100 c:\users\alorya\documents\aulas lab\aula11\noarv.h
+
+1531088870 source:c:\users\alorya\documents\aulas lab\aula11\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
